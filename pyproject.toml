@@ -1,0 +1,13 @@
+[project]
+name = "ace-omega-academic-universe"
+version = "4.0.0"
+description = "A Streamlit and Three.js academic literature universe visualization platform."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+
+[tool.ruff]
+line-length = 120
+
+[tool.pytest.ini_options]
+pythonpath = ["."]

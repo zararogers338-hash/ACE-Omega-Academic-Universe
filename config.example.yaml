@@ -1,0 +1,34 @@
+app:
+  name: "ACE-Ω Academic Universe"
+  version: "4.0.0-open-source-preview"
+  default_language: "en"
+
+model:
+  active_backend: "openai"
+  gguf:
+    model_path: "./models/model.gguf"
+    n_ctx: 16384
+    n_gpu_layers: -1
+    temperature: 0.3
+    max_tokens: 4096
+  ollama:
+    host: "http://localhost"
+    port: 11434
+    model: "llama3"
+    timeout: 120
+  openai:
+    base_url: "https://api.openai.com/v1"
+    api_key: ""
+    model: "gpt-4o-mini"
+    timeout: 60
+    max_tokens: 4096
+    temperature: 0.3
+
+visualization:
+  warp_strength: 2.0
+  gravity_grid_segments: 100
+  asteroid_particles: 12000
+  animation_speed: 1.0
+  low_particle_mode: false
+  shadows_enabled: true
+  fps_display: false

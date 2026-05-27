@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Academic Celestial Mapping",
+    "authors": "Demo Author",
+    "year": 2024,
+    "cited_by_count": 76,
+    "abstract": "A demo JSON record for ACE-Omega.",
+    "keywords": "academic universe, visualization",
+    "module": "ACE"
+  },
+  {
+    "title": "Black Hole Papers in Research Fields",
+    "authors": "Demo Author 2",
+    "year": 2022,
+    "cited_by_count": 530,
+    "abstract": "A demo record for high-impact papers.",
+    "keywords": "citation, influence",
+    "module": "ACN"
+  }
+]

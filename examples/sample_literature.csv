@@ -1,0 +1,6 @@
+title,authors,year,cited_by_count,abstract,keywords,doi,module,journal
+Graph Neural Networks for Scholarly Knowledge,"Li H.; Zhang W.",2021,245,"A study of graph neural networks for academic citation structures.",graph neural networks; citation networks,10.0000/ace.001,AI,Journal of Academic Systems
+Knowledge Universe Visualization,"Chen X.; Smith J.",2022,120,"A visualization framework for mapping literature as an interactive universe.",visualization; bibliometrics,10.0000/ace.002,ACE,Visualization Review
+Automated Research Gap Detection,"Wang Y.; Johnson A.",2023,88,"An AI-assisted workflow for identifying gaps in literature corpora.",research gaps; ai analysis,10.0000/ace.003,NLP,AI Research Methods
+Citation Graph Evolution,"Garcia M.; Patel R.",2020,310,"A longitudinal analysis of citation network evolution.",citation graph; time series,10.0000/ace.004,ACN,Scientometrics Today
+Interdisciplinary Impact Metrics,"Kim S.; Brown P.",2024,42,"A metric framework for detecting interdisciplinary influence.",interdisciplinary; impact metrics,10.0000/ace.005,CROSS,Research Evaluation
